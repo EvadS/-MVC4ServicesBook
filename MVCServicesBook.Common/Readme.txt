@@ -1,0 +1,2 @@
+﻿Contains functionality not specific to your API or
+even to web services (e.g., DateTimeAdapter).
